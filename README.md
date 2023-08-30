@@ -1,4 +1,4 @@
-![banner](https://cdn.discordapp.com/attachments/319109213664313354/1146532877580894309/achievement.png)
+![banner](https://cdn.discordapp.com/attachments/319109213664313354/1146535624522862683/achievement.png)
 
 <h2 align="center">
     Hello there! I am <strong>JumanJi</strong> 👋🏻
