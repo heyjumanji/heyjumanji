@@ -32,6 +32,7 @@ Here are the tools and social i used regularly and generally.
 <h2 align="center">
     Achievement lol:
 </h2>
+
 ![banner](https://cdn.discordapp.com/attachments/319109213664313354/1146535624522862683/achievement.png)
 
 ---
