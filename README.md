@@ -1,3 +1,5 @@
+![banner](https://cdn.discordapp.com/attachments/319109213664313354/1146536838769684591/achievement.png)
+
 <h2 align="center">
     Hello there! I am <strong>JumanJi</strong> 👋🏻
 </h2>
@@ -28,11 +30,5 @@ Here are the tools and social i used regularly and generally.
     </p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=JumanJionGitHub&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
-<h2 align="center">
-    Achievement lol:
-</h2>
-
-![banner](https://cdn.discordapp.com/attachments/319109213664313354/1146535624522862683/achievement.png)
 
 ---
