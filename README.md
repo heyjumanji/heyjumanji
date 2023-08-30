@@ -1,10 +1,8 @@
-![banner](https://cdn.discordapp.com/attachments/319109213664313354/1146535624522862683/achievement.png)
-
 <h2 align="center">
     Hello there! I am <strong>JumanJi</strong> 👋🏻
 </h2>
 <p align="center">
-    I am a developer and a moderator on Discord, i make discord bots and work on <strong> <a href="https://discord.com">Discord</a></strong> APIs!
+    I am a developer and a community moderator on Discord, i make discord bots and work on <strong> <a href="https://discord.com">Discord</a></strong> APIs!
 <br>
 <br>
 
@@ -30,5 +28,10 @@ Here are the tools and social i used regularly and generally.
     </p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=JumanJionGitHub&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+<h2 align="center">
+    Achievement lol:
+</h2>
+![banner](https://cdn.discordapp.com/attachments/319109213664313354/1146535624522862683/achievement.png)
 
 ---
