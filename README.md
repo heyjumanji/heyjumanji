@@ -9,6 +9,8 @@ Hey there! I'm JumanJi, a Discord.js developer with experience working on variou
         <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff69b4&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/heyjumanji" alt="Profile Stars"></a>
         <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff69b4&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/heyjumanji" alt="Profile Forks"></a>
     </p>
-    
-[![Discord Presence](https://lanyard.cnrad.dev/api/878264909014663218)](https://discord.com/users/878264909014663218)
+
+<p align="center">
+  <a href="https://discord.com/users/878264909014663218"><img src="https://lanyard.cnrad.dev/api/878264909014663218"></a>
+</p>
 
