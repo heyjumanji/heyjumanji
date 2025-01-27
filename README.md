@@ -1,5 +1,5 @@
 ## 🌿 Howdy! Around here they know me as JumanJi
-Hey there! I'm JumanJi, a Discord.js developer with experience working on various open-source projects. I'm also a community manager, designer, writer, and freelance artist available for commissions. I enjoy drawing as a hobby and taking on commission work to meet my needs. You can check out more about me at [my website](https://jumanji.is-a.dev/). If you need to get in touch, feel free to reach out to me at contact@jumanji.is-a.dev.
+Hey there! I'm JumanJi, a Discord.js developer with experience working on various open-source projects. I'm also a community manager, designer, writer, and freelance artist available for commissions. I enjoy drawing as a hobby and taking on commission work to meet my needs. You can check out more about me at `🌐` [my website](https://jumanji.is-a.dev/). If you need to get in touch, feel free to reach out to me at `✉️` contact@jumanji.is-a.dev.
 
 <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,mongodb,vercel,twitter,instagram,deno,mysql,googlecloud,cf,github,discord" />
 
@@ -14,3 +14,4 @@ Hey there! I'm JumanJi, a Discord.js developer with experience working on variou
   <a href="https://discord.com/users/878264909014663218"><img src="https://lanyard.cnrad.dev/api/878264909014663218"></a>
 </p>
 
+<img align="right" style="width:400px" src="https://github-readme-stats.vercel.app/api?username=heyjumanji&show_icons=true&icon_color=ffc700&text_color=8f959e&bg_color=00000000&hide_title=true&hide_border=true"/>
