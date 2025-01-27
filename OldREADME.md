@@ -29,6 +29,6 @@ Here are the tools and social i used regularly and generally.
         <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff69b4&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/JumanJionGitHub" alt="Profile Forks"></a>
     </p>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=JumanJionGitHub&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=heyjumanji&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ---
