@@ -14,4 +14,7 @@ Hey there! I'm JumanJi, a Discord.js developer with experience working on variou
   <a href="https://discord.com/users/878264909014663218"><img src="https://lanyard.cnrad.dev/api/878264909014663218"></a>
 </p>
 
-<img align="right" style="width:400px" src="https://github-readme-stats.vercel.app/api?username=heyjumanji&show_icons=true&icon_color=fa93f6&text_color=8f959e&bg_color=00000000&hide_title=true&hide_border=true"/>
+<div align="center">
+  <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=heyjumanji&show_icons=true&icon_color=fa93f6&text_color=8f959e&bg_color=00000000&hide_title=true&hide_border=true"/>
+</div>
+
